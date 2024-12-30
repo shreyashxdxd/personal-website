@@ -1,0 +1,208 @@
+.bodytext{
+        font-family: "Poppins", serif;
+        font-weight: 500;
+        font-style: normal;
+      }
+
+.h1{
+    color:white;
+    text-shadow: 0 0 0.8em #000000;
+    height: 100px;
+    margin-top: 100px;
+}      
+
+.h2{
+    color:white;
+    text-shadow: 0 0 0.8em #000000;
+    height: 10px;
+    
+}      
+
+.th{
+    color:white;
+    text-shadow: 0 0 0.8em #000000;
+    height: 100px;
+    font-size: large;
+}    
+
+.here{
+    color:white;
+    text-shadow: 0 0 0.8em #000000;
+    text-decoration: underline white;
+    font-size: 20px;
+    height: 20px;
+}    
+
+.cont{
+    font-size: small;
+    text-decoration: underline;
+    color:rgb(0, 0, 0);
+    /*text-shadow: 0 0 0.3em #ffffff;*/
+    position: absolute;
+    top: 680px;
+    left: 600px;
+}
+
+
+/* */ 
+
+
+.red{
+    height: 100px;
+    width: 100px;
+    background-image: url(rrr.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.9em #000000;
+    position: absolute;
+    top: 450px;
+    left: 400px;
+    
+}
+
+
+
+
+.let{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 450px;
+    left: 550px;
+    background-image: url(l.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.9em #000000;
+  
+}
+
+.git{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 450px;
+    left: 700px;
+    background-image: url(git.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.9em #000000;
+
+}
+
+.ig{
+    height: 100px;
+    width: 100px;
+    background-image: url(iii.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.9em #000000;
+    position: absolute;
+    top: 450px;
+    left: 850px;
+
+}
+
+.chess{
+    height: 100px;
+    width: 100px;
+    background-image: url(c.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.9em #000000;
+    position: absolute;
+    top: 450px;
+    left: 1000px;
+
+}
+
+.red:hover{
+    height: 100px;
+    width: 100px;
+    background-image: url(rrr.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.5em #e0d9d9;
+    position: absolute;
+    top: 450px;
+    left: 400px;
+}
+
+.let:hover{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 450px;
+    left: 550px;
+    background-image: url(l.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.5em #e0d9d9;
+}
+
+.git:hover{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    top: 450px;
+    left: 700px;
+    background-image: url(git.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.5em #e0d9d9;
+}
+
+.ig:hover{
+    height: 100px;
+    width: 100px;
+    background-image: url(iii.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.5em #e0d9d9;
+    position: absolute;
+    top: 450px;
+    left: 850px;
+
+}
+
+.chess:hover{
+    height: 100px;
+    width: 100px;
+    background-image: url(c.jpg);
+    border-radius: 10px;
+    border: none;
+    box-shadow:0 0 0.5em #e0d9d9;
+    position: absolute;
+    top: 450px;
+    left: 1000px;
+
+}
+
+.reddit{
+    position: absolute;
+    top: 532px;
+    left: 422px;
+
+}
+
+.letterboxd{
+    position: absolute;
+    top: 532px;
+    left: 556px
+}
+
+.github{
+    position: absolute;
+    top: 532px;
+    left: 722px;
+}
+
+.insta{
+    position: absolute;
+    top: 532px;
+    left: 857px;
+}
+.chesscom{
+    position: absolute;
+    top: 532px;
+    left: 1005px;
+}
